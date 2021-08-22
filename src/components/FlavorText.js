@@ -2,10 +2,9 @@ function FlavorText(props) {
 
     return (
         <div>
-            <p>{props.data.flavor}</p>
+            <p>{props.flavor}</p>
             <hr></hr>
         </div>
-
     )
 }
 
